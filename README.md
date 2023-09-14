@@ -1,9 +1,3 @@
-# BP Final Examination
+# JavaScript Skill Checkpoint
 
-แบบทดสอบ Final ของครอส Basic of Programming มีทั้งหมด 2 ข้อ
-
-## ข้อมูลผู้สอบ
-
-- ชื่อ:
-- นามสกุล:
-- อีเมล:
+แบบทดสอบ JavaScript ซึ่งมีทั้งหมด 2 ข้อ
